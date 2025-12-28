@@ -109,9 +109,7 @@ const Home = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8, duration: 0.8 }}
           >
-            <a href="/projects" className="btn btn-primary">
-              View Projects
-            </a>
+            
             
           </motion.div>
 
