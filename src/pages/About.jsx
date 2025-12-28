@@ -174,10 +174,7 @@ const About = () => {
 
         {/* Contact Info Quick */}
         <motion.div className="contact-quick" variants={itemVariants}>
-          <p>Want to collaborate or just chat about tech?</p>
-          <a href="/contact" className="btn btn-primary">
-            Let's Connect
-          </a>
+          
         </motion.div>
       </motion.div>
     </div>
